@@ -805,6 +805,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .single-contact-add-info {
     margin-bottom:  26px;
 }
+
+.footer-class{
+    margin: 0 0 0 20px;
+}
 /*.contact-add-info */
 
 /*hm-foot-icon*/
@@ -813,7 +817,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .hm-foot-icon ul li{float:left;}
 .hm-foot-icon ul li>a {
     color: #636a82;
-    height: 200px;
+    /* height: 200px; */
     margin-right:18px;
     -webkit-transition: .3s; 
     -moz-transition:.3s; 
